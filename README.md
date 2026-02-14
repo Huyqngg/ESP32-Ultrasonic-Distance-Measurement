@@ -28,7 +28,7 @@
 * **標準偏差 ($\sigma^*$):** 0.2111 [cite: 155]。
 * **最終的な測定結果:** $X = 20.115 \pm 0.1453$ cm (n=20) [cite: 159]。
 
-## 5. 開発チーム (Đội ngũ phát triển) [cite: 3, 66]
+## 5. 開発チーム [cite: 3, 66]
 * Lê Tiến Hiếu
 * Nguyễn Quốc Huy
 * Tạ Văn Việt
