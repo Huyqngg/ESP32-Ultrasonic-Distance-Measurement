@@ -65,5 +65,5 @@ void loop() {
   }
 
   display.display();
-  delay(1000); // Khoảng nghỉ 1s giữa các lần đo theo yêu cầu thực nghiệm [cite: 143]
+  delay(1000); 
 }
